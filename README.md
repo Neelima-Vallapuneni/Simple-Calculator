@@ -19,7 +19,7 @@ This is a simple and responsive **Calculator** web application built using **HTM
 
 ## Live Demo
 You can view the live demo of the project here:  
-👉 https://github.com/Neelima-Vallapuneni/Simple-Calculator 
+👉 https://neelima-vallapuneni.github.io/Simple-Calculator/
 
 ## How to Run
 1. Download the project files.  
@@ -33,6 +33,7 @@ You can view the live demo of the project here:
 
 ## Author
 Neelima Vallapuneni
+
 
 
 
